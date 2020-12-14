@@ -1,0 +1,16 @@
+Class: Cook
+
+Attributes:
+
+  1. shirt_color (string)
+  2. number_of_recipes (integer)
+  3. food (array)
+  4. number_of_orders (integer)
+  5. has_experience (boolean)
+
+Methods:
+
+  1. add_food (add a food item into the food array)
+  2. cook_food (subtracts 1 from number_of_orders)
+  3. change_shirt (changes the shirt_color attribute)
+  4. learns_new_recipe (Adds 1 to number_of_recipes)
