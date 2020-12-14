@@ -1,0 +1,15 @@
+Class: SportsDrink
+
+Attributes:
+
+  1. color (string)
+  2. total_capacity (integer)
+  3. value (float)
+  4. current_capacity (integer)
+
+Methods:
+
+  1. calculate_percent_full (divides current_capacity by total_capacity)
+  2. drink (subtracts 20 from current_capacity and 5.50 from value)
+  3. change_color (changes the color attribute)
+  4. damage (subtracts 2.50 from value)
