@@ -1,0 +1,16 @@
+object/instance:
+
+Attributes:
+
+  1. shirt_color: "White"
+  2. number_of_recipes: 10
+  3. food: ["Steak", "Carrot", "Rice"]
+  4. number_of_orders: 5
+  5. has_experience: true
+
+Methods:
+
+  1. add_food: ["Steak", "Carrot", "Rice", "Bean"]
+  2. cook_food: 5 - 1 = 4
+  3. change_shirt: shirt_color = "Brown"
+  4. learns_new_recipe: 10 + 1 = 11
