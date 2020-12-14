@@ -1,0 +1,16 @@
+irb
+
+`food = "pizza"``
+`is_delicious = true`
+
+`food = "ramen"``
+
+```num2 = 5
+num7 = 10
+quotient = num7 / num2```
+
+```songs = ["Song 1", "Song 2", "Song 3"]
+songs.delete("Song 1")```
+
+```food = "ramen"
+puts food.count```
