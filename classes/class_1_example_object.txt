@@ -1,0 +1,16 @@
+object/instance: Gatorade
+
+Attributes:
+
+  1. color: "Blue"
+  2. total_capacity: 100
+  3. value: 10.50
+  4. current_capacity: 70
+
+Methods:
+
+  1. calculate_percent_full: 70 / 100 = .7
+  2. drink: 70 - 20 = 50
+            10.50 - 5.50 = 5
+  3. change_color: color = "Red"
+  4. damage: 10.50 - 2.50 = 8
