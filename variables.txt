@@ -13,4 +13,4 @@ quotient = num7 / num2```
 songs.delete("Song 1")```
 
 ```food = "ramen"
-puts food.count```
+food.length```
