@@ -1,4 +1,4 @@
-object/instance:
+object/instance: Line cook
 
 Attributes:
 
